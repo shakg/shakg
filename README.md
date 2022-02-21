@@ -1,9 +1,4 @@
-### 👋 Hello!
-* I am Ishak.
-  * Located in Ankara / Turkey
-  * Works as Software Verification Engineer @ Titra Teknoloji A.Ş
-  * Business domain 👉 Defence Industry
-   
+  
 #### Currently Working on
 * [Uav Monitoring System](https://github.com/shakg/uav_activity_monitor) - *A better way to manage and maintain fleet of uavs*
 * [Auto Structure](https://github.com/shakg/AutoStructure) - *A python cli tool to orginize your folders and projects*

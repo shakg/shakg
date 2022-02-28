@@ -7,7 +7,6 @@
 #### I Work With
 * ☁ netlify | heroku 
 * 💻 Python | C# | Js | Vue 
-* 🔥 Ionic | Capacitor frameworks
 
 #### Currently Learning
 * Rust - *No need to caption*

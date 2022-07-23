@@ -6,12 +6,11 @@
 
 #### I Work With
 * ☁ netlify | heroku 
-* 💻 Python | C# | Js | Vue 
+* 💻 Python | C# | Js | Ts | Python | Vue | Angular 
 
 #### Currently Learning
 * Rust - *No need to caption*
 * Software Verification - *Learning general concepts about software architecture, software testing and devops pipelines*
-* Java - *Learning to write native capacitorjs plugin*
 
  #### Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=shakg)](https://github.com/shakg)

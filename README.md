@@ -8,7 +8,7 @@
 
 #### I Work With
 * ☁ netlify | heroku 
-* 💻 Python | C# | Js | Ts | Python | Vue | Angular 
+* 💻 Python | C# | Js | Ts | Python | Vue | Angular | electronjs
 
 #### Currently Learning
 * Rust - *No need to caption*

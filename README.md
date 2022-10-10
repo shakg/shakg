@@ -1,6 +1,6 @@
   
 #### Currently Working on
-* [Uav Monitoring System](https://github.com/shakg/uav_activity_monitor) - *A better way to manage and maintain fleet of uavs*
+* [DSRS](https://github.com/shakg/dsrs) - *Dead Simple Release Server*
 * [Auto Structure](https://github.com/shakg/AutoStructure) - *A python cli tool to orginize your folders and projects*
 * [Komsunubil](https://github.com/shakg/komsunubil) - *A platform to vote & comment on your neighbourhood*
 * [Visual Alias](https://github.com/shakg/visual-alias) - *See & run linux aliases visually*

@@ -12,6 +12,7 @@
 
 #### Currently Learning
 * Rust - *No need to caption*
+* GoLang
 * Software Verification - *Learning general concepts about software architecture, software testing and devops pipelines*
 
  #### Stats

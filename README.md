@@ -2,7 +2,7 @@
 #### Currently Working on
 * [DSRS](https://github.com/shakg/dsrs) - *Dead Simple Release Server*
 * [Auto Structure](https://github.com/shakg/AutoStructure) - *A python cli tool to orginize your folders and projects*
-* [Komsunubil](https://github.com/shakg/komsunubil) - *A platform to vote & comment on your neighbourhood*
+* [File Browser API](https://github.com/shakg/file-browser-api) - *Exposes given folder through rest api*
 * [Visual Alias](https://github.com/shakg/visual-alias) - *See & run linux aliases visually*
 
 

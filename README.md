@@ -1,6 +1,7 @@
   
 #### Currently Working on
 * [DSRS](https://github.com/shakg/dsrs) - *Dead Simple Release Server*
+* [sslash](https://github.com/shakg/sslash) - *simple text alias tool with fuzzy finder*
 * [Auto Structure](https://github.com/shakg/AutoStructure) - *A python cli tool to orginize your folders and projects*
 * [File Browser API](https://github.com/shakg/file-browser-api) - *Exposes given folder through rest api*
 * [Visual Alias](https://github.com/shakg/visual-alias) - *See & run linux aliases visually*

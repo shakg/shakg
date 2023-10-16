@@ -6,7 +6,7 @@
 * [g-systemctl](https://github.com/shakg/g-systemctl) - *graphical user interface for systemctl services from *nix platforms*
 
 #### I Work With
-* ☁ netlify 
+* ☁ netlify | vercel
 * 💻 Python | C# | Js | Ts | Python | Vue | Angular | electronjs | Golang
 
 #### Currently Learning

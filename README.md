@@ -6,8 +6,8 @@
 * [g-systemctl](https://github.com/shakg/g-systemctl) - *graphical user interface for systemctl services from *nix platforms*
 
 #### I Work With
-* ☁ netlify | vercel
-* 💻 Python | C# | Js | Ts | Python | Vue | Angular | electronjs | Golang
+* ☁ netlify | vercel | hetzner | dokploy | docker | docker-compose
+* 💻 Python | Js | Ts | Python | Vue | Angular | NextJs | React | Java | Golang
 
 #### Currently Learning
 * DPE (Developer Productivity Engineering)

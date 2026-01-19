@@ -11,15 +11,14 @@ Senior Software Engineer building **Ground Control Systems**, **UAV tooling**, a
 - **Navigation & trajectory**: interpolation (splines), sensor fusion, predictive pathing for degraded GPS.
 - **Geospatial systems**: geofencing, polygon-based detection, terrain/geometry, and map-centric visualization.
 
-## Featured projects
+## Projects
 
-- **desketch** — Local-first desktop drawing app (Tauri + tldraw) - https://github.com/shakg/desketch
-
-- **g-systemctl** — TUI for managing system services (Linux/macOS): search/filter/control daemons from terminal - https://github.com/shakg/g-systemctl
-
-- **qgcd** — Pure C++ MAVLink daemon: telemetry/control over ZeroMQ (backend for separated GCS architecture) - https://github.com/shakg/qgcd
-
-- **zmq-client** — ZeroMQ client utilities / experiments - https://github.com/shakg/zmq-client
+| Project         | Description                                                                                                   | Repository                                                                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **desketch**    | Local-first desktop drawing app built with Tauri and tldraw                                                   | [https://github.com/shakg/desketch](https://github.com/shakg/desketch)       |
+| **g-systemctl** | Terminal UI for managing system services on Linux/macOS (search, filter, control daemons)                     | [https://github.com/shakg/g-systemctl](https://github.com/shakg/g-systemctl) |
+| **qgcd**        | Pure C++ MAVLink daemon providing telemetry and control over ZeroMQ (backend for separated GCS architectures) | [https://github.com/shakg/qgcd](https://github.com/shakg/qgcd)               |
+| **zmq-client**  | ZeroMQ client utilities and experiments                                                                       | [https://github.com/shakg/zmq-client](https://github.com/shakg/zmq-client)   |
 
 ## Toolbox
 

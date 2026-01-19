@@ -23,8 +23,8 @@ Senior Software Engineer building **Ground Control Systems**, **UAV tooling**, a
 ## Toolbox
 
 **Languages:** TypeScript, Go, C#, C++  
-**Frontend:** Angular, React, CesiumJS, WebGL
-**Transports:** MAVLink, UDP/TCP, Serial, DDS, ROS, protobuffers.
+**Frontend:** Angular, React, CesiumJS, WebGL  
+**Transports:** MAVLink, UDP/TCP, Serial, DDS, ROS, protobuffers.  
 **DevOps/Automation:** Docker, GitHub Actions, Jenkins, Yocto  
 **Testing:** Jest, Mocha, Jasmine, Playwright, GTEST
 

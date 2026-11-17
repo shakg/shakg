@@ -1,6 +1,6 @@
 # Ishak Gönül
 
-Software developer. Ground control systems, UAV tooling, real-time telemetry and navigation.
+Software developer. Ground control systems, UAV tooling, Linux tooling, real-time telemetry and navigation.
 
 ## Projects
 

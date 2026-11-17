@@ -1,18 +1,19 @@
 # Ishak Gönül
 
-Senior Software Developer building **Ground Control Systems**, **UAV tooling**, and **real-time telemetry/navigation** systems.
-
-- I like systems that are *fast, observable, and boringly reliable*.
+Software developer. Ground control systems, UAV tooling, real-time telemetry and navigation.
 
 ## Projects
 
-| Project         | Description                                                                                                   | Repository                                                                   |
-| --------------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| **desketch**    | Local-first desktop drawing app built with Tauri and tldraw                                                   | [https://github.com/shakg/desketch](https://github.com/shakg/desketch)       |
-| **g-systemctl** | Terminal UI for managing system services on Linux/macOS (search, filter, control daemons)                     | [https://github.com/shakg/g-systemctl](https://github.com/shakg/g-systemctl) |
+- [g-systemctl](https://github.com/shakg/g-systemctl) – terminal UI for managing system services on Linux/macOS
+- [dlsim](https://github.com/shakg/dlsim)
+- [drav](https://github.com/shakg/drav)
+- [mavlink-ephemeral](https://github.com/shakg/mavlink-ephemeral)
+- [bagplay](https://github.com/shakg/bagplay)
+- [r1mcli](https://github.com/shakg/r1mcli)
+- [qt-patterns-guide](https://github.com/shakg/qt-patterns-guide)
+- [shakg-blog](https://github.com/shakg/shakg-blog)
 
-## Contact 
+## Contact
 
-- Website: https://shakg.dev
-- GitHub: https://github.com/shakg
+- Web: [shakg.dev](https://shakg.dev)
 - Email: ishakgonulgb@gmail.com
